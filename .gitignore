@@ -1,0 +1,8 @@
+vendor/
+run/*
+# Ignore Jetbrains IDE folder
+.idea/*
+# Ignore vim .swp buffers for open files
+.*.swp
+.*.swo
+*.log
